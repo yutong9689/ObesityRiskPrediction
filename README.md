@@ -18,10 +18,10 @@ NObesity values are:
 •Obesity III Higher than 40
 ## Table of Contents
 1.1 Import Libraries <br />
-1.2 Import Data
-1.3 Quick overview
-1.4 Summary of the data
-2. Exploratory Data Analysis
-3. Pre-Processing
-4. Model building
-5. Prediction on Test data
+1.2 Import Data <br />
+1.3 Quick overview <br />
+1.4 Summary of the data<br />
+2. Exploratory Data Analysis<br />
+3. Pre-Processing<br />
+4. Model building<br />
+5. Prediction on Test data<br />
