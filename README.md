@@ -10,12 +10,12 @@ Gender, Age, Height and Weight.
 
 NObesity values are:
 
-•Underweight Less than 18.5
-•Normal 18.5 to 24.9
-•Overweight 25.0 to 29.9
-•Obesity I 30.0 to 34.9
-•Obesity II 35.0 to 39.9
-•Obesity III Higher than 40
+•Underweight Less than 18.5<br />
+•Normal 18.5 to 24.9<br />
+•Overweight 25.0 to 29.9<br />
+•Obesity I 30.0 to 34.9<br />
+•Obesity II 35.0 to 39.9<br />
+•Obesity III Higher than 40<br />
 ## Table of Contents
 1.1 Import Libraries <br />
 1.2 Import Data <br />
