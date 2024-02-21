@@ -1,4 +1,4 @@
-# Obesity Risk Prediction (Classification|LGBM|Visual EDA)
+# Obesity Risk Prediction (Classification | LGBM | Visual EDA)
 ## Goal
 The goal of this project is to use various factors to predict obesity risk in individuals, which is related to cardiovascular disease.
 ## About the Dataset
